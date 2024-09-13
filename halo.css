@@ -1,0 +1,58 @@
+.logo1{
+    background-color: purple;
+    padding: 12px;
+    img{
+margin-left:800px ;
+width: 140px;
+    }
+}
+.texto1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+}
+.halo{
+    background-image: url(img/banner.png);
+    width: auto;
+    height: 500px;
+}
+.texto2{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto3{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto3 :last-of-type{
+    background-color: purple;
+    padding: 12px;
+    display: inline;
+}
+.tabela1{
+    padding-left: 370px;
+    width: 80px;
+    font-size: 22px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    th{
+        background-color: rgba(66, 66, 66, 0.897);
+        color: white;
+    }
+    tr:nth-of-type(odd){
+background-color: #7a00cc;
+    }
+    tr:nth-of-type(even){
+        background-color: #b13dff;
+    }
+}
+.logo2{
+    background-color: purple;
+    padding: 1px;
+    text-align: center;
+    font-size: 16px;
+}
